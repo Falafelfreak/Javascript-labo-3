@@ -1,0 +1,15 @@
+.vierkant {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0,0,0);
+    border: 1px black solid;
+    display: inline-block;
+    border-radius: 5px;
+    float:left;
+    margin-top: 12px;
+    margin-left: 12px;
+}
+
+.block{
+    float: left;
+}
